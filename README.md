@@ -1,5 +1,7 @@
+# Hi there! 👋 I'm Ashwin Joseph K A
+
 <h1 align="center">Hi 👋, I'm Ashwin Joseph K A</h1>
-<h3 align="center">Turning Data into Insights | BI Enthusiast | Data Storyteller</h3>
+<h3 align="center">Turning Data into Insights | BI Enthusiast | Data Storyteller | Microsoft PL-300 & DP-900 Certified </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashwinjosephka05&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinjosephka05" /> </p>
 
@@ -8,10 +10,6 @@
 ---
 
 ## 🚀 About Me
-
-# 👋 Hi, I'm Ashwin Joseph K A!  
-
-🚀 **Aspiring Data Analyst | BI Developer | Data Storyteller**  
 
 Welcome to my GitHub! I'm passionate about turning raw data into meaningful insights using **Excel, SQL, Power BI, Tableau, Python, and Looker Studio**. With a background in **Fleet Management** and hands-on experience in **Business Intelligence**, I specialize in **data cleaning, visualization, and predictive analytics**.  
 
@@ -63,16 +61,20 @@ Welcome to my GitHub! I'm passionate about turning raw data into meaningful insi
 
 ## 🛠️ Languages and Tools:
 <p align="center"> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power bi" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_looker/google_looker-icon.svg" alt="looker studio" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://zapier.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwinjosephka05&show_icons=true&locale=en&layout=compact" alt="ashwinjosephka05" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinjosephka05&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinjosephka05&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinjosephka05&show_icons=true&locale=en" alt="ashwinjosephka05" />
-</p>
+
