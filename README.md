@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Ashwin Joseph K A
-
 <h1 align="center">Hi 👋, I'm Ashwin Joseph K A</h1>
 <h3 align="center">Turning Data into Insights | BI Enthusiast | Data Storyteller</h3>
 
